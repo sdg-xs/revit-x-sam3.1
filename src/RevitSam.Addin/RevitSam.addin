@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit SAM 3.1</Name>
+    <Assembly>RevitSam.Addin.dll</Assembly>
+    <AddInId>94EE0DE2-07DC-48BC-953E-C17EBA51FE71</AddInId>
+    <FullClassName>RevitSam.Addin.SamApplication</FullClassName>
+    <VendorId>SDG</VendorId>
+    <VendorDescription>Local SAM 3.1 asset detection workflow for Revit.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
